@@ -1,0 +1,1 @@
+# Pensamento-Computacional-e-Automa-o-com-Python-Sprint-2
