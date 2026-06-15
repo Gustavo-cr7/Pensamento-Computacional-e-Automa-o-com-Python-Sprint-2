@@ -143,7 +143,7 @@ http://localhost:8000
 
 ## Vídeo
 
-()
+(https://youtu.be/6IszdfYnUbY)
 
 ## Kanban
 (https://canva.link/n6hqi2clci10o3i)
